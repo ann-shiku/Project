@@ -1,0 +1,13 @@
+body{background-image:url();height: 200px;background-position: center;background-size:cover}
+ .login-page{width: 360px;padding: 0;margin: auto;}
+  .form{position: relative;background-color:white ;padding: 5px;max-width:1200px ;}
+  header{text-align: center; background-color: aliceblue}
+ aside{float: right; width:300px}
+  .login-form>input{font-family: sans-serif,arial;
+    outline: 1;width: 100%;margin: 0 0 15px;
+    padding: 15px;box-sizing: border-box;font-size: 14px;}
+    .login-form>button{background-color: rgb(196, 103, 103);width: 100%;cursor: pointer;}
+    .message>a{text-decoration: none;color: rgb(29, 15, 15);font-weight: bold}
+    .form>button:hover,.form button:active{background-color: rgb(102, 124, 124)}
+    .login-form>button:hover,.form button:active{background-color: rgb(53, 70, 70)}
+   .form .register-form{display: none}
